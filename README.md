@@ -1,3 +1,5 @@
+🙆‍♂️오라클 팀 프로젝트🙆‍♂️
+
 ![projectTemp](https://user-images.githubusercontent.com/87955005/152466049-f9c573aa-ebed-4978-a027-0cc82364b1d6.png)
 
 >  진행한 **프로젝트**를 **한 줄**로 소개합니다. <br />
