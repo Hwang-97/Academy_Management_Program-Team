@@ -1,65 +1,152 @@
-# Project Title / 프로젝트 이름
+![projectTemp](https://user-images.githubusercontent.com/87955005/152466049-f9c573aa-ebed-4978-a027-0cc82364b1d6.png)
 
-**[뱃지나 프로젝트에 관한 이미지들이 이 위치에 들어가면 좋습니다]**  
-One Paragraph of project description goes here / 프로젝트의 전반적인 내용에 대한 요약을 여기에 적습니다
+>  진행한 **프로젝트**를 **한 줄**로 소개합니다. <br />
+>  **일정**과 **팀원** 등 프로젝트에 대한 부가 설명을 작성합니다. <br />
 
-## Getting Started / 어떻게 시작하나요?
+<br />
 
-이 곳에서 설치에 관련된 이야기를 해주시면 좋습니다.
+# 📌 Table Of Contents
+* [📖 Introduction](#-introduction)
+* [🙋 My Role](#-my-role)
+* [🔎 Detail](#-detail)
+* [💡 Review](#-review)
+* [✔ To Do List](#-to-do-list)
 
-### Prerequisites / 선행 조건
+<br />
+<br />
+<br />
 
-아래 사항들이 설치가 되어있어야합니다.
 
-```
-예시
-```
 
-### Installing / 설치
+# 📖 Introduction
+### 1. 프로젝트 개요
+* 프로젝트의 **개요**를 작성합니다.
+* 주요 **내용**을 간결하게 설명합니다.
+<br />
 
-아래 사항들로 현 프로젝트에 관한 모듈들을 설치할 수 있습니다.
+### 2. 개발 환경
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"><br/>
+<img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">  <img src="https://img.shields.io/badge/eclipse ide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">  <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">  
+* 프로젝트에 사용한 **개발 언어**를 기입합니다.
+* **개발 도구**를 기입합니다.
+* **형상 관리** 도구를 기입합니다.
+<br />
 
-```
-예시
-```
+### 3. 프로젝트 내용
+![projectTemp](https://user-images.githubusercontent.com/87955005/152466049-f9c573aa-ebed-4978-a027-0cc82364b1d6.png)
+#### 3-1. 내용1
+* 프로젝트의 **내용**을 기입합니다. 
+* 주요 **특징**들을 작성합니다.
 
-## Running the tests / 테스트의 실행
+#### 3-2. 내용2
+* 프로젝트의 **내용**을 기입합니다. 
+* 주요 **특징**들을 작성합니다.
 
-어떻게 테스트가 이 시스템에서 돌아가는지에 대한 설명을 합니다
+<br />
+<br />
+<br />
 
-### 테스트는 이런 식으로 동작합니다
 
-왜 이렇게 동작하는지, 설명합니다
 
-```
-예시
-```
+# 🙋 My Role
+### 1. 담당 업무
+![projectTemp](https://user-images.githubusercontent.com/87955005/152466049-f9c573aa-ebed-4978-a027-0cc82364b1d6.png)
 
-### 테스트는 이런 식으로 작성하시면 됩니다
+#### 1-1. 주요 특징
+* 구현 **결과**에 대한 **설명**을 기입합니다.
+* 이미지 혹은 영상으로 **확인** 가능한 부분을 설명합니다.
 
-```
-예시
-```
+#### 1-2. 주요 특징
+* 구현 **결과**에 대한 **설명**을 기입합니다.
+* 이미지 혹은 영상으로 **확인** 가능한 부분을 설명합니다.
 
-## Deployment / 배포
+<br />
+<br />
 
-Add additional notes about how to deploy this on a live system / 라이브 시스템을 배포하는 방법
+### 2. 담당 업무
+![projectTemp](https://user-images.githubusercontent.com/87955005/152466049-f9c573aa-ebed-4978-a027-0cc82364b1d6.png)
 
-## Built With / 누구랑 만들었나요?
+#### 2-1. 주요 특징
+* 구현 **결과**에 대한 **설명**을 기입합니다.
+* 이미지 혹은 영상으로 **확인** 가능한 부분을 설명합니다.
 
-* [이름](링크) - 무엇 무엇을 했어요
-* [Name](Link) - Create README.md
+#### 2-2. 주요 특징
+* 구현 **결과**에 대한 **설명**을 기입합니다.
+* 이미지 혹은 영상으로 **확인** 가능한 부분을 설명합니다.
 
-## Contributiong / 기여
+<br />
+<br />
+<br />
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us. / [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) 를 읽고 이에 맞추어 pull request 를 해주세요.
 
-## License / 라이센스
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://gist.github.com/PurpleBooth/LICENSE.md) file for details / 이 프로젝트는 MIT 라이센스로 라이센스가 부여되어 있습니다. 자세한 내용은 LICENSE.md 파일을 참고하세요.
+# 🔎 Detail
+### 1. 주요 코드
+* 작성한 **코드**를 설명합니다.
+    ```java
+    System.out.println("설명에 부합하는 코드만 기입합니다.");
+    ```
+* 작성한 **코드**를 설명합니다.
+    ```sql
+    begin
+        dbms_output.put_line('설명에 부합하는 코드만 기입합니다.');
+    end;
+    ```
+* 작성한 **코드**를 설명합니다.
+    ```javascript
+    console.log('설명에 부합하는 코드만 기입합니다.');
+    ```
+    
+<br />
+<br />
 
-## Acknowledgments / 감사의 말
+### 2. 주요 코드
+* 작성한 **코드**를 설명합니다.
+    ```java
+    System.out.println("설명에 부합하는 코드만 기입합니다.");
+    ```
+* 작성한 **코드**를 설명합니다.
+    ```sql
+    begin
+        dbms_output.put_line('설명에 부합하는 코드만 기입합니다.');
+    end;
+    ```
+* 작성한 **코드**를 설명합니다.
+    ```javascript
+    console.log('설명에 부합하는 코드만 기입합니다.');
+    ```
+    
+<br />
+<br />
+<br />
 
-* Hat tip to anyone whose code was used / 코드를 사용한 모든 사용자들에게 팁
-* Inspiration / 영감
-* etc / 기타
+# 💡 Review
+### 1. 후기
+* 프로젝트 완료 후 **후기**를 작성합니다.
+* **협업**을 통해 얻은 **고찰**을 위주로 기입합니다.
+
+<br />
+<br />
+
+### 2. 코드 리뷰
+* 보완점이 있는 코드를 **리뷰**합니다.
+
+<br />
+<br />
+<br />
+
+# ✔ To Do List
+- [ ] 미완료 기능
+  - [ ] 미완료 내용
+  - [ ] 미완료 내용
+  - [X] 완료 내용
+<br />
+
+- [X] 완료 기능
+  - [X] 완료 내용
+  - [X] 완료 내용
+  - [X] 완료 내용
+
+<br />
+<br />
+<br />
